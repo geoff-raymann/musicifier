@@ -8,7 +8,7 @@ import CreateRoomPage from './CreateRoomPage';
 
 function App() {
       return (
-          <div>
+          <div className="center">
             <HomePage />
           </div>
 
